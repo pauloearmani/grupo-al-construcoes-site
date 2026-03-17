@@ -1,5 +1,5 @@
 /* ============================================================
-   A.L. CONSTRUÇÕES LTDA — main.js
+   GRUPO AL CONSTRUÇÕES — main.js
    Responsável por:
    1. Injetar a navbar em todas as páginas
    2. Injetar o footer em todas as páginas
@@ -26,7 +26,7 @@ const T = {
 
     // ── SOBRE ──
     hero_eyebrow_sobre: "✦ Quem Somos",
-    hero_title_sobre:   "Sobre a A.L. Construções LTDA",
+    hero_title_sobre:   "Sobre o Grupo AL Construções",
     hero_sub_sobre:     "Anos de experiência construindo com qualidade, segurança e compromisso com a excelência em cada projeto.",
 
     mvv_label: "Nossa Essência", mvv_title: "Missão, Visão e Valores",
@@ -81,7 +81,7 @@ const T = {
     footer_rights: "All rights reserved",
 
     hero_eyebrow_sobre: "✦ Who We Are",
-    hero_title_sobre:   "About A.L. Construções LTDA",
+    hero_title_sobre:   "About Grupo AL Construções",
     hero_sub_sobre:     "Years of experience building with quality, safety, and a commitment to excellence in every project.",
 
     mvv_label: "Our Essence", mvv_title: "Mission, Vision & Values",
@@ -134,7 +134,7 @@ const T = {
     footer_rights: "Todos los derechos reservados",
 
     hero_eyebrow_sobre: "✦ Quiénes Somos",
-    hero_title_sobre:   "Sobre A.L. Construções LTDA",
+    hero_title_sobre:   "Sobre Grupo AL Construções",
     hero_sub_sobre:     "Años de experiencia construyendo con calidad, seguridad y compromiso con la excelencia en cada proyecto.",
 
     mvv_label: "Nuestra Esencia", mvv_title: "Misión, Visión y Valores",
@@ -190,7 +190,7 @@ function injectNavbar(activePage) {
           <polyline points="9 22 9 12 15 12 15 22"/>
         </svg>
       </div>
-      A.L. <span>Construções</span>
+      Grupo <span>AL Construções</span>
     </a>
 
     <div class="nav-right">
@@ -231,7 +231,7 @@ function injectFooter() {
     <div class="inner">
       <div class="footer-grid">
         <div class="footer-brand">
-          <h3>A.L. Construções LTDA</h3>
+          <h3>Grupo AL Construções</h3>
           <p data-i18n="footer_desc">Engenharia civil com foco em planejamento, qualidade e segurança em cada projeto que entregamos.</p>
           <div class="footer-contact">
             <div>📞 (xx) xxxxx-xxxx</div>
@@ -257,7 +257,7 @@ function injectFooter() {
         </div>
       </div>
       <div class="footer-bottom">
-        © 2026 A.L. Construções LTDA —
+        © 2026 Grupo AL Construções —
         <span data-i18n="footer_rights">Todos os direitos reservados</span>
       </div>
     </div>
