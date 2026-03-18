@@ -228,9 +228,9 @@ function injectFooter() {
           <h3>Grupo AL Construções</h3>
           <p data-i18n="footer_desc">Engenharia civil com foco em planejamento, qualidade e segurança em cada projeto que entregamos.</p>
           <div class="footer-contact">
-            <div>📞 (xx) xxxxx-xxxx</div>
-            <div>✉️ <a href="mailto:contato@alconstrucoes.com.br">contato@alconstrucoes.com.br</a></div>
-            <div>📍 <span data-i18n="footer_addr">Endereço da empresa</span></div>
+            <div>📞 <a href="tel:+552835381204">(28) 3538-1204</a></div>
+            <div>✉️ <a href="mailto:al_construcoes@hotmail.com">al_construcoes@hotmail.com</a></div>
+            <div>📍 <span data-i18n="footer_addr">Rod. Joaquim Caiado ES 289, s/n° Localidade de Pechincha - Atílio Vivácqua/ES</span></div>
           </div>
         </div>
         <div class="footer-col">
