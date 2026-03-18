@@ -244,9 +244,7 @@ function injectFooter() {
         <div class="footer-col">
           <h4 data-i18n="footer_social">Siga nas Redes</h4>
           <ul>
-            <li><a href="#">LinkedIn</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/gilcimar-silva-batista-177a653b7/" target="_blank">LinkedIn</a></li>
           </ul>
         </div>
       </div>
