@@ -98,7 +98,7 @@ section { padding: 90px 5%; }
    HOME
    ============================================================ */
 .hero-home { margin-top: var(--nav-height); position: relative; min-height: 620px; background: linear-gradient(135deg, #0a1628 0%, #1a3a6b 60%, #0d2e5a 100%); display: flex; align-items: center; justify-content: center; overflow: hidden; }
-.hero-home .hero-bg { position: absolute; inset: 0; background-image: url('../images/hero-home.jpeg'); background-size: cover; background-position: center; opacity: 0.28; }
+.hero-home .hero-bg { position: absolute; inset: 0; background-image: url('../images/hero-home.webp'); background-size: cover; background-position: center; opacity: 0.28; }
 .hero-home .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(10,22,40,0.45) 0%, rgba(10,22,40,0.78) 100%); }
 .hero-home::after { content: ''; position: absolute; bottom: -2px; left: 0; right: 0; height: 60px; background: var(--white); clip-path: polygon(0 100%, 100% 0, 100% 100%); }
 .hero-home-content { position: relative; z-index: 2; text-align: center; color: var(--white); padding: 100px 20px 140px; animation: fadeUp .8s ease both; max-width: 820px; }
@@ -186,7 +186,7 @@ section { padding: 90px 5%; }
 /* ============================================================
    CONTATO
    ============================================================ */
-.hero-bg-contato { background-image: url('../images/hero-sobre.jpeg'); }
+.hero-bg-contato { background-image: url('../images/hero-sobre.webp'); }
 .contato-section { background: var(--gray-light); }
 .contato-grid { display: grid; grid-template-columns: 1fr 1.4fr; gap: 48px; max-width: 1200px; margin: 0 auto; }
 

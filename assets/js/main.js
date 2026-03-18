@@ -183,7 +183,7 @@ function injectNavbar(activePage) {
 
   nav.innerHTML = `
     <a href="index.html" class="nav-logo">
-      <img src="assets/images/logo.png" alt="Grupo AL Construções" class="nav-logo-img"/>
+      <img src="assets/images/logo.webp" alt="Grupo AL Construções" class="nav-logo-img"/>
       Grupo <span>AL Construções</span>
     </a>
 
