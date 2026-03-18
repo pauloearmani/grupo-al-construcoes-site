@@ -19,7 +19,7 @@ const T = {
 
     // Footer
     footer_desc:   "Engenharia civil com foco em planejamento, qualidade e segurança em cada projeto que entregamos.",
-    footer_addr:   "Endereço da empresa",
+    footer_addr:   "Rod. Joaquim Caiado ES 289, s/n° — Pechincha — Atílio Vivácqua/ES",
     footer_links:  "Links Rápidos",
     footer_social: "Siga nas Redes",
     footer_rights: "Todos os direitos reservados",
@@ -75,7 +75,7 @@ const T = {
     nav_cta:     "Request a Quote",
 
     footer_desc:   "Civil engineering focused on planning, quality, and safety in every project we deliver.",
-    footer_addr:   "Company address",
+    footer_addr:   "Rod. Joaquim Caiado ES 289, s/n° — Pechincha — Atílio Vivácqua/ES",
     footer_links:  "Quick Links",
     footer_social: "Follow Us",
     footer_rights: "All rights reserved",
@@ -128,7 +128,7 @@ const T = {
     nav_cta:     "Solicitar Presupuesto",
 
     footer_desc:   "Ingeniería civil con enfoque en planificación, calidad y seguridad en cada proyecto que entregamos.",
-    footer_addr:   "Dirección de la empresa",
+    footer_addr:   "Rod. Joaquim Caiado ES 289, s/n° — Pechincha — Atílio Vivácqua/ES",
     footer_links:  "Enlaces Rápidos",
     footer_social: "Síguenos",
     footer_rights: "Todos los derechos reservados",
