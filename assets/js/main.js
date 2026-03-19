@@ -196,9 +196,9 @@ function injectNavbar(activePage) {
       </ul>
 
       <div class="lang-switcher" id="lang-switcher">
-        <button class="lang-btn active" onclick="setLang('pt', this)" title="Português">🇧🇷</button>
-        <button class="lang-btn"        onclick="setLang('en', this)" title="English">🇺🇸</button>
-        <button class="lang-btn"        onclick="setLang('es', this)" title="Español">🇪🇸</button>
+        <button class="lang-btn active" onclick="setLang('pt', this)" title="Português" aria-label="Mudar para Português">🇧🇷</button>
+        <button class="lang-btn"        onclick="setLang('en', this)" title="English"   aria-label="Switch to English">🇺🇸</button>
+        <button class="lang-btn"        onclick="setLang('es', this)" title="Español"   aria-label="Cambiar a Español">🇪🇸</button>
       </div>
 
       <button class="nav-hamburger" id="hamburger" aria-label="Menu">
